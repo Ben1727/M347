@@ -1,10 +1,10 @@
 # M347
-Installiation guide:
+Installiations anleitung:
 
-- git clone https://github.com/Doroudchi/M347
+- git clone https://github.com/Ben1727/M347
 
 - cd M347
 
 - docker compose up
 
-Open Localhost:8181 in a browser
+Öffne Localhost:8181 im browser
