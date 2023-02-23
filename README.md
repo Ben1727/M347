@@ -1,5 +1,5 @@
 # M347
-Installiations anleitung:
+Installations anleitung:
 
 - git clone https://github.com/Ben1727/M347
 
